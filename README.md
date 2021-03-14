@@ -1,2 +1,2 @@
 # Tinycore_env_test
-Tiny core kernel module compiled for kernel version of 4.19.152
+Tiny core kernel test module compiled for debug under kernel version of 4.19.152
